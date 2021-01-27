@@ -1,0 +1,18 @@
+button{
+    background-color: rgb(10, 10, 206, 206, 208, 0.5);
+    color:red;
+    border-radius:5px;
+    border:none;
+    text-align: center;
+    font-size: 20px;
+    margin: 5px;
+}
+button:hover{
+    background-color: gray;
+    color: white;
+}
+
+.img-animation{
+    text-align: center;
+    margin: 20px;
+}
